@@ -1,0 +1,5 @@
+{
+  "name": "Verilog FSM Visualizer (Mono)",
+  "description": "A classic monochrome finite state machine visualizer for Verilog code, generating publication-ready black and white diagrams.",
+  "requestFramePermissions": []
+}
