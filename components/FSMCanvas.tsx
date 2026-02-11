@@ -276,7 +276,7 @@ const FSMCanvas: React.FC<FSMCanvasProps> = ({
                     <span className="text-[9px] text-black font-bold">Your Wire</span>
                 </div>
                  <div className="text-[9px] text-gray-500 italic mt-1">
-                    Hover Node -> Highlight Logic
+                    Hover Node &gt; Highlight Logic
                 </div>
             </div>
         </Panel>
